@@ -1,8 +1,6 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://github.com/sundaresan-dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40">
-  </a>
+  
   <a href="https://instagram.com/sundaresan.dev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
   </a>
