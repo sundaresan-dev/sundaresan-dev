@@ -42,15 +42,15 @@ I like problems where the fix is a script that means nobody has to wake up at 3a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,nginx,jenkins,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,nginx,jenkins,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,nginx,jenkins,git" alt="Linux, Bash, Python, Docker, Kubernetes, Nginx, Jenkins, Git" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=linux%2Cbash%2Cpython%2Cdocker%2Ckubernetes%2Cnginx%2Cjenkins%2Cgit&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cbash%2Cpython%2Cdocker%2Ckubernetes%2Cnginx%2Cjenkins%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux%2Cbash%2Cpython%2Cdocker%2Ckubernetes%2Cnginx%2Cjenkins%2Cgit" alt="Linux, Bash, Python, Docker, Kubernetes, Nginx, Jenkins, Git" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=aws,azure,mysql,firebase,js,nodejs,react,github&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,mysql,firebase,js,nodejs,react,github&theme=light" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,mysql,firebase,js,nodejs,react,github" alt="AWS, Azure, MySQL, Firebase, JavaScript, Node.js, React, GitHub" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cmysql%2Cfirebase%2Cjs%2Cnodejs%2Creact%2Cgithub&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cmysql%2Cfirebase%2Cjs%2Cnodejs%2Creact%2Cgithub&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws%2Cazure%2Cmysql%2Cfirebase%2Cjs%2Cnodejs%2Creact%2Cgithub" alt="AWS, Azure, MySQL, Firebase, JavaScript, Node.js, React, GitHub" />
   </picture>
 </p>
 
